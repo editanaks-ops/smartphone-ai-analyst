@@ -46,6 +46,16 @@ Develop an AI consultant capable of:
 
 The project was developed as a final AI Specialist diploma project and demonstrates the practical application of GPT models for recommendation systems and product analytics.
 
+## Example Results
+
+### AI Recommendation Example
+
+![Recommendation](Screenshot%202026-06-10%20112452.png)
+
+### Candidate Selection and Analysis
+
+![Candidates](Screenshot%202026-06-10%20112509.png)
+
 ## Author
 
 Edita Näks Skylstad
